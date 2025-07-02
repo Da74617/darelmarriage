@@ -29,7 +29,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Heart className="w-6 h-6 text-rose-500" />
-            <span className="text-xl font-serif text-gray-800">Marie & Pierre</span>
+            <span className="text-xl font-serif text-gray-800">Leticia & Kokpa</span>
           </div>
           
           <nav className="hidden md:flex space-x-8">

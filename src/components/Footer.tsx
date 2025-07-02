@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="text-center md:text-left">
             <div className="flex items-center justify-center md:justify-start space-x-2 mb-4">
               <Heart className="w-6 h-6 text-rose-400" />
-              <span className="text-xl font-serif">Marie & Pierre</span>
+              <span className="text-xl font-serif">Leticia & Kokpa</span>
             </div>
             <p className="text-gray-300">
               Merci de partager ce moment magique avec nous. 
@@ -22,11 +22,11 @@ export default function Footer() {
             <div className="space-y-2 text-gray-300">
               <div className="flex items-center justify-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>marieetpierre2024@email.com</span>
+                <span>leticiaetkokpa2026@email.com</span>
               </div>
               <div className="flex items-center justify-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span>06 12 34 56 78</span>
+                <span>+237 679 87 16 47</span>
               </div>
             </div>
           </div>
@@ -46,10 +46,10 @@ export default function Footer() {
         
         <div className="border-t border-gray-700 pt-8 text-center">
           <p className="text-gray-400">
-            Fait avec <Heart className="w-4 h-4 inline text-rose-400" /> pour Marie & Pierre
+            Fait avec <Heart className="w-4 h-4 inline text-rose-400" /> pour Leticia & Kokpa
           </p>
           <p className="text-gray-500 text-sm mt-2">
-            #MarieEtPierre2026
+            #LETICIAETKOKPA2026
           </p>
         </div>
       </div>

@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-serif mb-6 animate-fade-in">
-            Marie & Pierre
+            Leticia & Kokpa
           </h1>
           <p className="text-xl sm:text-2xl mb-8 animate-fade-in-delay">
             Nous nous marions !

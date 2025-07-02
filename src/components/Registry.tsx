@@ -140,7 +140,7 @@ export default function Registry() {
             <div className="text-sm text-gray-600 space-y-1">
               <p><strong>IBAN :</strong> FR76 1234 5678 9012 3456 7890 123</p>
               <p><strong>BIC :</strong> ABCDFR21XXX</p>
-              <p><strong>Libellé :</strong> Mariage Marie & Pierre</p>
+              <p><strong>Libellé :</strong> Mariage leticia & kokpa</p>
             </div>
           </div>
         </div>

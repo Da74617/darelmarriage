@@ -104,12 +104,12 @@ export default function PracticalInfo() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-2 sm:space-y-0 sm:space-x-8">
             <div>
-              <span className="font-medium">Marie :</span>
-              <a href="tel:+33123456789" className="ml-2 hover:underline">06 12 34 56 78</a>
+              <span className="font-medium">Leticia :</span>
+              <a href="tel:+33123456789" className="ml-2 hover:underline">+237 692 13 42 92</a>
             </div>
             <div>
-              <span className="font-medium">Pierre :</span>
-              <a href="tel:+33123456789" className="ml-2 hover:underline">06 98 76 54 32</a>
+              <span className="font-medium">kokpa :</span>
+              <a href="tel:+33123456789" className="ml-2 hover:underline">+237 679 87 16 47</a>
             </div>
           </div>
         </div>

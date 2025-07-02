@@ -18,7 +18,7 @@ export default function Story() {
     {
       year: '2022',
       title: 'La Demande',
-      description: 'Pierre a fait sa demande lors d\'un coucher de soleil sur la plage de Biarritz. Marie a dit oui !',
+      description: 'Kokpa a fait sa demande lors d\'un coucher de soleil sur la plage de Biarritz. Leticia a dit oui !',
       icon: Sparkles
     }
   ];
@@ -40,15 +40,15 @@ export default function Story() {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-serif text-gray-800 mb-4">Marie</h3>
               <p className="text-gray-600 leading-relaxed">
-                Passionnée de littérature et de photographie, Marie illumine chaque jour par sa joie de vivre 
+                Passionnée de littérature et de photographie, Leticia illumine chaque jour par sa joie de vivre 
                 et sa créativité. Elle adore découvrir de nouveaux endroits et partager des moments précieux 
                 avec ses proches.
               </p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg">
-              <h3 className="text-2xl font-serif text-gray-800 mb-4">Pierre</h3>
+              <h3 className="text-2xl font-serif text-gray-800 mb-4">KOKPA</h3>
               <p className="text-gray-600 leading-relaxed">
-                Architecte de formation et musicien dans l'âme, Pierre apporte stabilité et harmonie dans 
+                Administrateur reseau et musicien dans l'âme, DAREL apporte stabilité et harmonie dans 
                 leur relation. Il rêve de construire leur maison idéale et de composer la bande sonore 
                 de leur vie ensemble.
               </p>
@@ -58,7 +58,7 @@ export default function Story() {
           <div className="relative">
             <img
               src="/images/couple-story.JPG"
-              alt="Marie et Pierre"
+              alt="Leticia et KOKPA"
               className="w-full rounded-2xl shadow-2xl"
             />
             <div className="absolute -bottom-6 -right-6 w-24 h-24 bg-rose-500 rounded-full flex items-center justify-center shadow-lg">

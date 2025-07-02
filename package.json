@@ -28,10 +28,18 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
-    "vite": "^5.4.2"
+    "vite": "^7.0.0"
   },
   "main": "eslint.config.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Da74617/darelmarriage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Da74617/darelmarriage/issues"
+  },
+  "homepage": "https://github.com/Da74617/darelmarriage#readme",
   "description": ""
 }
